@@ -1,4 +1,4 @@
-﻿# dcoker build context point is the CacheLine.CPU.SCU, not Example.ConsoleApp
+﻿# docker build context point is the CacheLine.CPU.SCU, not Example.ConsoleApp
 
 FROM mcr.microsoft.com/dotnet/runtime:8.0 AS base
 USER $APP_UID
