@@ -12,6 +12,7 @@ Cross-platform library:
 [Example ConsoleApp with docker file](https://github.com/sapozhnikovv/CacheLine.CPU.SCU/tree/main/Example.ConsoleApp)
 
 # Nuget
+[![NuGet](https://img.shields.io/nuget/v/CacheLine.CPU.SCU)](https://www.nuget.org/packages/CacheLine.CPU.SCU)   
 multi-target package:   
 ✅ .net7.0   
 ✅ .net8.0   
